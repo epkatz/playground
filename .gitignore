@@ -1,0 +1,33 @@
+# Defaults
+.DS_Store
+.idea
+*.iml
+*.ipr
+*.log
+.sbtserver*
+sbt-ui.sbt
+classes/
+target/
+sbt-launch.jar
+
+*.class
+*.log
+
+# sbt specific
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.scala_dependencies
+.worksheet
+.idea
+
+# Node
+node_modules/

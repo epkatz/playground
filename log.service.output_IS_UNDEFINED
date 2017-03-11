@@ -1,0 +1,44 @@
+2017-03-11 08:23:08,664 INF                  ExampleServerMain$        Process started
+2017-03-11 08:23:10,075 DEB                  MessageBodyModule$        Configuring MessageBodyManager
+2017-03-11 08:23:10,113 INF                  ExampleServerMain$        Resolving Finagle clients before warmup
+2017-03-11 08:23:10,120 INF                  ExampleServerMain$        Done resolving clients: [].
+2017-03-11 08:23:10,130 INF                  FinagleBuildRevision$     Resolved Finagle build revision: (rev=21d0ee8b5070b735eda5c84d7aa6fbf1ba7b1635)
+2017-03-11 08:23:10,322 INF                  ExampleServerMain$        Warming up.
+2017-03-11 08:23:10,396 INF                  HttpRouter                Adding routes
+GET     /ping
+2017-03-11 08:23:15,681 INF                  DefaultTracer$            Tracer: com.twitter.finagle.zipkin.thrift.SamplingTracer
+2017-03-11 08:23:15,694 INF                  ExampleServerMain$        http server started on port: 9999
+2017-03-11 08:23:15,695 INF                  ExampleServerMain$        Enabling health endpoint on port 9990
+2017-03-11 08:23:15,696 INF                  ExampleServerMain$        App started.
+2017-03-11 08:23:15,696 INF                  ExampleServerMain$        Startup complete, server ready.
+2017-03-11 08:23:58,600 DEB                  RoutingService            Request("GET /", from /0:0:0:0:0:0:0:1:59576) not found in registered routes: GET     /ping
+2017-03-11 08:24:02,106 INF 700d639015f99e2a PingController            List(Charlie)
+2017-03-11 08:24:41,782 INF                  ExampleServerMain$        Process started
+2017-03-11 08:24:42,772 DEB                  MessageBodyModule$        Configuring MessageBodyManager
+2017-03-11 08:24:42,799 INF                  ExampleServerMain$        Resolving Finagle clients before warmup
+2017-03-11 08:24:42,803 INF                  ExampleServerMain$        Done resolving clients: [].
+2017-03-11 08:24:42,815 INF                  FinagleBuildRevision$     Resolved Finagle build revision: (rev=21d0ee8b5070b735eda5c84d7aa6fbf1ba7b1635)
+2017-03-11 08:24:42,947 INF                  ExampleServerMain$        Warming up.
+2017-03-11 08:24:43,034 INF                  HttpRouter                Adding routes
+GET     /ping
+2017-03-11 08:24:48,295 INF                  DefaultTracer$            Tracer: com.twitter.finagle.zipkin.thrift.SamplingTracer
+2017-03-11 08:24:48,312 INF                  ExampleServerMain$        http server started on port: 9999
+2017-03-11 08:24:48,313 INF                  ExampleServerMain$        Enabling health endpoint on port 9990
+2017-03-11 08:24:48,313 INF                  ExampleServerMain$        App started.
+2017-03-11 08:24:48,314 INF                  ExampleServerMain$        Startup complete, server ready.
+2017-03-11 08:30:03,613 INF                  ExampleServerMain$        Process started
+2017-03-11 08:30:04,593 DEB                  MessageBodyModule$        Configuring MessageBodyManager
+2017-03-11 08:30:04,624 INF                  ExampleServerMain$        Resolving Finagle clients before warmup
+2017-03-11 08:30:04,632 INF                  ExampleServerMain$        Done resolving clients: [].
+2017-03-11 08:30:04,642 INF                  FinagleBuildRevision$     Resolved Finagle build revision: (rev=21d0ee8b5070b735eda5c84d7aa6fbf1ba7b1635)
+2017-03-11 08:30:04,847 INF                  ExampleServerMain$        Warming up.
+2017-03-11 08:30:04,921 INF                  HttpRouter                Adding routes
+GET     /ping
+2017-03-11 08:30:52,762 INF                  ExampleServerMain$        Process started
+2017-03-11 08:30:54,847 DEB                  MessageBodyModule$        Configuring MessageBodyManager
+2017-03-11 08:30:54,890 INF                  ExampleServerMain$        Resolving Finagle clients before warmup
+2017-03-11 08:30:54,893 INF                  ExampleServerMain$        Done resolving clients: [].
+2017-03-11 08:30:54,895 INF                  FinagleBuildRevision$     Resolved Finagle build revision: (rev=21d0ee8b5070b735eda5c84d7aa6fbf1ba7b1635)
+2017-03-11 08:30:55,133 INF                  ExampleServerMain$        Warming up.
+2017-03-11 08:30:55,241 INF                  HttpRouter                Adding routes
+GET     /ping
