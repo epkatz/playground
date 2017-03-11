@@ -1,2 +1,0 @@
-0:0:0:0:0:0:0:1 - - [11/Mar/2017:13:24:02 +0000] "GET /ping HTTP/1.1" 200 4 627 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36" 700d639015f99e2a
-0:0:0:0:0:0:0:1 - - [11/Mar/2017:13:24:53 +0000] "GET /ping HTTP/1.1" 200 11 658 "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36" 0436422467ba753e
